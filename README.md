@@ -1,127 +1,36 @@
 <div align="center">
   <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/main-logo.png" width="170" alt="interparkticket-logo"/>
 
-# 2025 PORTFOLIO
+# 📝2025 윤다경 PORTFOLIO
 </div>
 
-## 작업자 : 
-윤다경
 <br><br>
-
-## 📅 제작기간 :
- 2024.12~2025.01
-<br><br>
-
- ## ✨ 도메인
-
-```
-📦 #2025PORTFOLIO
- ┣ 📂 css
- ┣ 📂 font
- ┣ 📂 img
- ┗ 📂 js
-  index
-
-```
-
- <br/>
  
 
-## 🌐 인터파크 티켓
-인터파크 티켓은,
-**인터파크**는 1996년에 설립된 대한민국의 종합 온라인 쇼핑몰이자, 
-문화 콘텐츠 및 엔터테인먼트 분야에서 활발히 활동하는 기업입니다.
-
-인터파크는 다양한 상품과 서비스를 제공하는 플랫폼으로, 
-그 중 **인터파크 티켓**은 공연, 영화, 스포츠, 전시 등 다양한 문화 콘텐츠의 예매 서비스를 주로 제공합니다. 
-이를 통해 공연 예매, 영화 티켓 구매, 콘서트, 뮤지컬, 전시회 등 폭넓은 문화 활동을 지원합니다.
-<br><br><br><br>
-
-
-
-## ⭐️ 프로젝트 설명
-
-### 리뉴얼 방향과 디자인 기획
-본 프로젝트는 **인터파크 티켓**  웹사이트의 전면 리뉴얼을 목표로 하며, 다음 3가지 항목을 중점으로 진행되었습니다.
-<br><br>
-
-**“티켓 예매 사이트”라는 사이트의 목적성에 부합하는 디자인과 기능**
-
-- 사용자의 편리한 예매 경험을 최우선으로 고려하며, 직관적인 인터페이스와 간결한 사용자 흐름을 설계했습니다. 또한, 다양한 사용자층의 요구를 충족시키기 위해 필수적인 기능(검색, 예매, 좋아요)을 강화하여 효율성을 높였습니다.
-<br><br>
-**흐트러짐 없는 유연한 반응형 웹사이트**
-
-- 모든 디바이스에서 일관된 사용자 경험을 제공하기 위해 반응형 디자인을 구현했습니다. 
-데스크톱, 태블릿, 모바일 환경에 맞게 세분화한 레이아웃과 콘텐츠 배치를 통해 언제 어디서나 편리한 접근이 가능하도록 했습니다.
-<br><br>
-
-**협동과 팀워크**
-
-- 팀원 간의 적극적인 커뮤니케이션과 협업을 통해 프로젝트를 성공적으로 완수했습니다. 각자의 역할과 책임을 명확히 하면서도, 주요 의사결정 시에는 모든 구성원이 참여하여 최선의 결과를 도출했습니다. 특히, 아이디어 공유와 피드백을 통해 창의적이고 실용적인 결과물을 완성할 수 있었습니다.
-
-<br><br><br>
-
-## 📝 페이지 구성
-<br>
-
-### Header
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header.jpg" width="800"/>
-</div>
-페이지의 상단에 위치한 영역으로, 로고, 내비게이션 메뉴, 검색 창 등이 포함되어 있습니다. 사용자가 사이트를 탐색할 때 필요한 주요 링크를 제공합니다. 
-<br><br><br>
-<b>헤더 반응형</b>
-<div  display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header2.jpg" width="300"/>
-<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/header3.jpg" width="300"/>
-</div>
-가로 너비가 1200px 미만일 때는 헤더 안의 검색 창 ,내비게이션 메뉴, 언어 선택 등이 사라지고, 회원 정보 아이콘, 햄버거 아이콘이 생성됩니다.  
-회원 정보 아이콘을 클릭하면 회원 정보를 확인할 수 있는 측면 메뉴가 나옵니다.
-햄버거 아이콘을 클릭하면 측면 내비게이션 메뉴가 나옵니다.
+## 🍳 INTRO
+안녕하세요. 협업 중요 따뜻한 디자이너/웹 개발자 윤다경입니다.
 
 <br><br><br><br>
 
-### Footer
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/footer.jpg" width="800"/>
-</div>
-<br><hr>
-<div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/footer2.jpg" width="300"/>
- <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/footer3.jpg" width="150"/>
-</div>
 
-가로 너비가 1200px 이상일 때는 스크롤에 따라 화면 하단에서만 위치가 변경되도록 설정되었으며, 
-반응형 환경에서는 하단 중앙에 고정됩니다.
+
+## ⭐️ Main projects
+
+### 01. 누리캅스
+
+<br><br>
+
+### 02. 인터파크 티켓
+
+### 03. 2025 포트폴리오 페이지
  
    
 
 <br><br><br><br><br><br>
 ## 메인 페이지 
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6.png" width="800"/>
-</div>
-<br><br>
+
 
 ### section 1 메인 비주얼
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%B5%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%AF.gif" width="800"/>
-</div><br>
-인터파크 티켓의 주요 공연과 배너로 구성된 핵심 시각적 요소입니다.
-자동 슬라이드 형태로 주요 공연 정보를 한눈에 확인할 수 있도록 구성하였습니다.
-슬라이드 형태로 3개씩 배치하여 효율적인 정보 전달과 정돈된 레이아웃을 제공합니다.
-메인 비주얼에 배치된 작은 썸네일 위로 마우스를 올리면 배경 이미지가 변경되도록 구성하였습니다. 
-이를 통해 사용자가 주요 공연 정보를 직관적으로 확인할 수 있도록 시각적 효과를 강화하였습니다.
-<br><br><br>
-
-반응형 디자인은 다음과 같이 조정하였습니다.<br>
-<div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%B5%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%90%E1%85%A2%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA.jpg" width="300"/>
- <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%B5%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A9%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF.jpg" width="300"/>
-</div>
-<br><br><br><br>
 
 
 ### section2  티켓 오픈
@@ -317,52 +226,7 @@
  오른쪽 상단 사용자 메뉴에서 로그인을 클릭하면 로그인 모달 창이 뜨며, 로그인 완료 후에는 메뉴가 로그아웃으로 변경됩니다.
 <br><br><br><br>
 
-### 메인 팝업
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/popup.png" width="1000"/></div><br>
-  
-- **새로고침 시** : 정해진 색상 중 하나가 랜덤으로 선택되어 배경 색상이 변경됩니다.<br>
-- **닫기 기능** : 우측의 닫기 버튼을 눌러 팝업을 닫을 수 있습니다.<br>
-- **‘오늘 하루 열지 않기’ 옵션** : 체크 후 닫기를 선택하면 해당 팝업은 다음 날이 되기 전까지 다시 표시되지 않습니다.<br>
-<br><br><br><br>
 
-### 검색창
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A1%E1%86%BC.png" width="500"/></div><br>
-<div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A1%E1%86%BC2.png" width="300"/>
-<img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A1%E1%86%BC3.png" width="150"/>
-</div><br>
-
-- **검색창 클릭 시** : 검정색 모달 창이 열립니다.<br>
-- **추천 검색어 클릭 , 검색어 입력** : 작성한 키워드와 연관된  포스터 , 제목이 “이런 작품을 찾으시나요?” 영역에 표시됩니다. 클릭 시 예매하기 페이지로 이동합니다.<br>
-<br><br><br><br>
-
-### 예매하기 – 날짜 선택
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/calendar.png" width="300"/></div><br>
-- 달력에 오늘 날짜가 자동으로 표시됩니다.
-- 예매하기 버튼을 누르면 예매하기 팝업 창이 표시됩니다.
-<br><br><br><br>
-
-### 예매하기 – 좌석 선택
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/calendar.png" width="300"/></div><br>
-- 달력에 오늘 날짜가 자동으로 표시됩니다.<br>
-- 예매하기 버튼을 누르면 예매하기 팝업 창이 표시됩니다.<br>
-<br><br><br><br>
-
-### 관심 작품(좋아요)
-<br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%91%E1%85%AE%E1%86%B7.gif" width="300"/></div><br>
-  
-- **관심 버튼 클릭 시** : 하트 아이콘이 빨간색으로 채워지고, 관심 수가 1 증가합니다.<br>
-- **로그인 상태에서 클릭 시** : 해당 공연이 마이페이지의 “나의 관심 공연” 항목에 자동으로 추가됩니다. <br>
 <br><br>
 
 
