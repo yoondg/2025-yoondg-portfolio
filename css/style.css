@@ -156,11 +156,11 @@ nav ul li:hover {
   color: var(--orange);
 }
 
-<<<<<<< HEAD=======.div3 {
+.div3 {
   font-family: "ApfelGrotezk-Satt";
 }
 
->>>>>>>42af55084d9ef4b22ece3b522c4e1dc200bcedf0 .div4 {
+.div4 {
   font-size: 93px;
   color: #fff;
   line-height: 0.9;
@@ -195,8 +195,8 @@ nav ul li:hover {
 }
 
 .div3 .year {
-  <<<<<<< HEAD font-family: "ApfelGrotezk-Satt";
-  =======>>>>>>>42af55084d9ef4b22ece3b522c4e1dc200bcedf0 width: 70%;
+  font-family: "ApfelGrotezk-Satt";
+  width: 70%;
   height: 80%;
   background-color: var(--skyblue);
   border-radius: 50px;
@@ -326,7 +326,7 @@ nav ul li:hover {
 }
 
 .div9 {
-  <<<<<<< HEAD font-family: 'PretendardJP-Regular';
+  font-family: 'PretendardJP-Regular';
   display: flex;
   justify-content: center;
   align-items: center;
@@ -337,15 +337,16 @@ nav ul li:hover {
   overflow: hidden;
   font-size: 80px;
   border-radius: 20px;
+  background-color: var(--black);
+  grid-area: 4 / 7 / 5 / 8;
+  overflow: hidden;
 }
 
 
-=======background-color: var(--black);
-grid-area: 4 / 7 / 5 / 8;
-overflow: hidden;
-}
 
->>>>>>>42af55084d9ef4b22ece3b522c4e1dc200bcedf0 .div10 {
+
+
+.div10 {
   background-color: var(--lightorange);
   grid-area: 5 / 6 / 6 / 8;
   display: flex;
@@ -414,9 +415,9 @@ overflow: hidden;
 .back {
   background-color: var(--darkorange);
   /* 뒷면 색상 */
-  <<<<<<< HEAD color: var(--lightorange);
-  =======color: var(--orange);
-  >>>>>>>42af55084d9ef4b22ece3b522c4e1dc200bcedf0 transform: rotateY(180deg);
+  color: var(--lightorange);
+  color: var(--orange);
+  transform: rotateY(180deg);
   /* 뒷면 회전 */
 }
 
@@ -1156,5 +1157,4 @@ img {
   -ms-user-select: none;
   user-select: none;
   -webkit-user-drag: none;
-  =======>>>>>>>42af55084d9ef4b22ece3b522c4e1dc200bcedf0
 }
