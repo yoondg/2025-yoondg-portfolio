@@ -1141,7 +1141,6 @@ li:hover .sub-title::before {
   font-weight: bold;
   display: none;
   transform: translate(460%, -35px);
-  <<<<<<< HEAD
 }
 
 ::selection {
