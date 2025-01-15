@@ -1,0 +1,135 @@
+/* reset */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
+/* regular-400, medium-500, semibold-600, bold-700 */
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-jp.min.css");
+
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ApfelGrotezk-Regular";
+  src: url("../font/ApfelGrotezk-Regular.woff2") format("woff2");
+
+}
+
+@font-face {
+  font-family: "ApfelGrotezk-Mittel";
+  src: url("../font/ApfelGrotezk-Mittel.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ApfelGrotezk-Fett";
+  src: url("../font/ApfelGrotezk-Fett.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ApfelGrotezk-Satt";
+  src: url("../font/ApfelGrotezk-Satt.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "LINESeedJP_OTF_Bd";
+  src: url("../font/LINESeedJP_OTF_Bd.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'PretendardJP-Bold';
+  src: url("../font/PretendardJP-Bold.otf") format('opentype');
+}
+
+@font-face {
+  font-family: 'PretendardJP-ExtraBold';
+  src: url('../font/PretendardJP-ExtraBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PretendardJP-Medium';
+  src: url('../font/PretendardJP-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PretendardJP-Regular';
+  src: url('../font/PretendardJP-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PretendardJP-SemiBold';
+  src: url('../font/PretendardJP-SemiBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  --orange: #FF7D4E;
+  --lightorange: #FFC498;
+  --yellow: #FDF3A4;
+  --purple: #C953F5;
+  --black: #2C1C1F;
+  --ivory: #F1F2ED;
+  --green: #4A5D1A;
+  --lightgreen: #D5DBC5;
+  --skyblue: #9DBBBE;
+  --blue: #4A86BB;
+  --red: #FD4B3D;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+a,
+input,
+button,
+input::placeholder,
+select,
+option {
+  font-family: 'PretendardJP-Regular';
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+
+}
+
+body {
+  background-color: #F6F6F5;
+}
+
+
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: contents;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+  object-fit: cover;
+}
