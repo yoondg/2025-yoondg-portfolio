@@ -416,7 +416,6 @@ nav ul li:hover {
   background-color: var(--darkorange);
   /* 뒷면 색상 */
   color: var(--lightorange);
-  color: var(--orange);
   transform: rotateY(180deg);
   /* 뒷면 회전 */
 }
