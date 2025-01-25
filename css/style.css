@@ -38,7 +38,7 @@
 /* intro */
 
 .intro-title {
-  font-family: 'LINESeedJP_OTF_Bd';
+  font-family: 'LINESeedKR-Bd';
   margin: 0 auto;
   height: 460px;
   margin-top: 100px;
@@ -119,7 +119,7 @@ nav ul li:hover {
 }
 
 .div2>span {
-  font-family: "LINESeedJP_OTF_Bd";
+  font-family: 'LINESeedKR-Bd';
   margin-top: 30px;
   font-size: 48px;
   line-height: 35px;
@@ -127,13 +127,13 @@ nav ul li:hover {
 }
 
 .intro-name {
-  font-size: 58px;
+  font-size: 67px;
   color: var(--blue);
 
 }
 
 .intro-birth {
-  font-size: 32px;
+  font-size: 40px;
   color: var(--green);
 }
 
@@ -336,6 +336,7 @@ nav ul li:hover {
   border-radius: 20px;
 }
 
+
 .div10 {
   background-color: var(--lightorange);
   grid-area: 5 / 6 / 6 / 8;
@@ -477,7 +478,7 @@ nav ul li:hover {
   content: '';
   position: absolute;
   top: 55%;
-  left: 220px;
+  left: 470px;
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
