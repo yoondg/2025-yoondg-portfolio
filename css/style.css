@@ -156,9 +156,6 @@ nav ul li:hover {
   color: var(--orange);
 }
 
-.div3 {
-  font-family: "ApfelGrotezk-Satt";
-}
 
 .div4 {
   font-size: 93px;
@@ -326,24 +323,18 @@ nav ul li:hover {
 }
 
 .div9 {
-  font-family: 'PretendardJP-Regular';
+  
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: var(--black);
   color: #fff;
   font-weight: bold;
-  grid-area: 4 / 7 / 5 / 8;
+  grid-area: 4 / 7 / 5 / 8; 
   overflow: hidden;
   font-size: 80px;
   border-radius: 20px;
-  background-color: var(--black);
-  grid-area: 4 / 7 / 5 / 8;
-  overflow: hidden;
 }
-
-
-
 
 
 .div10 {
@@ -415,7 +406,7 @@ nav ul li:hover {
 .back {
   background-color: var(--darkorange);
   /* 뒷면 색상 */
-  color: var(--lightorange);
+  color: var(--orange);
   transform: rotateY(180deg);
   /* 뒷면 회전 */
 }
@@ -487,7 +478,7 @@ nav ul li:hover {
   content: '';
   position: absolute;
   top: 55%;
-  left: 220px;
+  left: 470px;
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
