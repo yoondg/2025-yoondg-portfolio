@@ -477,7 +477,7 @@ nav ul li:hover {
   content: '';
   position: absolute;
   top: 55%;
-  left: 220px;
+  left: 470px;
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
